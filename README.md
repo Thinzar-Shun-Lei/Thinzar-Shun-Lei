@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thinzar Shun Lei</h1>
-- 📫 How to reach me **thinzarsl611@gmail.com**
+<small align="center">You can call me "Thinzar"</small>
+
+- 📫 How to reach me - <a href="mailto:thinzarsl611@gmail.com">Thinzar Shun Lei</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
