@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thinzar Shun Lei</h1>
-<small align="center">You can call me "Thinzar"</small>
-
+<h3 align="center">You can call me "Thinzar"</h3>
+<br>
 - 📫 How to reach me - <a href="mailto:thinzarsl611@gmail.com">Thinzar Shun Lei</a>
 
 <h3 align="left">Connect with me:</h3>
