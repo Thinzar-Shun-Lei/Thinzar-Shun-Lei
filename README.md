@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thinzar Shun Lei</h1>
+<h1 align="center">Hi 👋, I'm Thinzar </h1>
 
 <br>
 - 📫 How to reach me - <a href="mailto:thinzarsl611@gmail.com">Thinzar Shun Lei</a>
